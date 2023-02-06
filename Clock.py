@@ -40,3 +40,5 @@ lb2.pack(anchor='center')
 # Call function to clock
 clock()
 root.mainloop()
+
+
